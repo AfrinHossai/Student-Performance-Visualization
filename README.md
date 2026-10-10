@@ -12,4 +12,11 @@ I aim to analyze student academic performance and investigate how factors such a
 Here is the link of dataset.
 https://archive.ics.uci.edu/dataset/320/student+performance
 
+
+## Project Outline / Plan
+
+### Interface Plan
+
+I plan to develop an interactive web-based dashboard using Streamlit and Plotly to help users explore student academic performance. The dashboard will include an overview of the dataset, visualizations showing relationships between student characteristics and final grades, and a machine learning prediction section. Users will be able to filter the data by factors such as school, study time, and previous academic performance to compare different student groups. Interactive charts will include hover information, clear labels, and accessible colors to make the findings easier to understand. The interface will be designed with simple navigation so that students, teachers, and other interested users can explore the data and understand the results.
+
  
