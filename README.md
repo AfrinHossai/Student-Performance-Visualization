@@ -1,8 +1,8 @@
-# Student Performance Analysis and Predictionlization
+# Student Performance Analysis and Prediction
 An interactive data visualization and machine learning project analyzing factors associated with student academic performance.
 
 
-## Author
+# Author
 Afrin Hossain
 
 ## Project Description
